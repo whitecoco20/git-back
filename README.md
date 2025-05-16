@@ -6,3 +6,4 @@ This project calculates simple interest based on user-provided principal, rate o
 Run the `simple-interest.sh` script:
 ```bash
 bash simple-interest.sh
+## Small update for merge screenshot (for Coursera)
